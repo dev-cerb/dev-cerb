@@ -1,28 +1,61 @@
-## 👋 Olá, eu sou Carlos Barreto
+# 👋 Olá, eu sou Carlos Barreto!
 
-Sou estudante de Ciência da Computação e Desenvolvedor Full Stack, com foco em **JavaScript, React, Node.js, Python e SQL**.
+Desenvolvedor de Software com formação em **Ciência da Computação**, focado em Backend e no desenvolvimento de aplicações utilizando **Node.js, TypeScript e Python**.
 
-Atualmente, meu principal projeto é o **FinanFlux**, um projeto full stack desenvolvido como TCC, voltado para controle financeiro, envolvendo backend em Python, APIs REST, banco de dados SQL, Docker e integração com recursos de IA.
+Tenho experiência prática na construção de APIs REST, integração com bancos de dados, implementação de regras de negócio e desenvolvimento de aplicações Full Stack.
+
+Atualmente, busco aprofundar meus conhecimentos em arquitetura de software, qualidade de código, testes automatizados e construção de sistemas escaláveis.
+
+
+## 🚀 Tecnologias
+
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,django,express" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+**Banco de dados e infraestrutura**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,docker,git,github" />
+</p>
+
+**Outras ferramentas**
+- Fastify
+- Django REST Framework
+- Drizzle ORM
+- Vitest
+- Swagger / OpenAPI
+
+
+## 📌 Projetos em destaque
+
+### FinanFlux — Plataforma de Gestão Financeira
+
+Plataforma Full Stack desenvolvida como Trabalho de Conclusão de Curso, utilizando Django, Django REST Framework, Next.js e PostgreSQL. Possui funcionalidades de gerenciamento financeiro e integração com recursos de Inteligência Artificial.
+
+🔗 [Acessar repositório](https://github.com/dev-cerb/finanflux)
+
+### Polls System — API de Enquetes
+
+API Backend desenvolvida com Node.js e TypeScript, utilizando Fastify, PostgreSQL, Prisma, Zod e Vitest. Inclui documentação com Swagger e comunicação via WebSocket.
+
+🔗 [Acessar repositório](https://github.com/dev-cerb/polls-system)
+
+### Projeto Álbum — Aplicação Full Stack
+
+Aplicação para gerenciamento de álbuns e fotografias, desenvolvida com Node.js, Express e Prisma, incluindo autenticação JWT e upload de arquivos.
+
+🔗 [Acessar repositório](https://github.com/dev-cerb/projeto-album)
 
 ---
 
-### 🛠️ Tecnologias
+## 📫 Contato
 
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/SQL-333333?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
-
----
-
-### 📌 Projeto em destaque
-
-🔹 **FinanFlux**  
-Projeto full stack desenvolvido como Trabalho de Conclusão de Curso (TCC).  
-➡️ [Acessar repositório](https://github.com/dev-cerb/finanflux)
-
-📍 Rio de Janeiro – Brasil
+- GitHub: https://github.com/dev-cerb
+- LinkedIn: [Carlos Barreto](www.linkedin.com/in/devcerb)
+- Localização: Rio de Janeiro, Brasil
